@@ -17,7 +17,7 @@ Welcome to **CodePen-ReactApp** – a responsive and fully functional **online c
 
 ## 🖼️ Demo
 
-> Coming Soon: [Live Site on Netlify]((https://shifayacodepen.netlify.app/))
+[Live Site on Netlify](https://shifayacodepen.netlify.app/)
 
 ---
 
