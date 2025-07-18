@@ -45,29 +45,26 @@ npm install
 npm start
 
 ---
-Then visit: http://localhost:3000
+## 💡 Future Enhancements
 
-## 🧠 Future Enhancements
- Add Download as HTML feature
-
- Allow saving multiple pens
-
- Integrate user authentication for personalized dashboards
-
- Deploy and preview public pens
+- Add Download as HTML feature  
+- Allow saving multiple pens  
+- Integrate user authentication for personalized dashboards  
+- Deploy and preview public pens  
 
 ---
 
 ## 📬 Contact
-📧 Email: jaithunshifaya@gmail.com
 
-🌐 LinkedIn
-
-💻 GitHub
+- 📧 Email: jaithunshifaya@gmail.com  
+- 🌐 [LinkedIn](https://linkedin.com/in/your-link)  
+- 💻 [GitHub](https://github.com/jaithunshifaya)  
 
 ---
 
 ## 🙏 Acknowledgement
-Inspired by CodePen and various React code editor tutorials.
 
-“The more code you write, the more you learn. Keep building.”
+Inspired by CodePen and various React code editor tutorials.  
+
+> “The more code you write, the more you learn. Keep building.”
+
