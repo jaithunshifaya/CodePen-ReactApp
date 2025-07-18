@@ -29,22 +29,6 @@ Welcome to **CodePen-ReactApp** – a responsive and fully functional **online c
 
 ---
 
-## 🛠️ Setup Instructions
-
-```bash
-# Clone the repository
-git clone https://github.com/jaithunshifaya/CodePen-ReactApp.git
-
-# Navigate into the folder
-cd CodePen-ReactApp
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-
----
 ## 💡 Future Enhancements
 
 - Add Download as HTML feature  
@@ -67,4 +51,21 @@ npm start
 Inspired by CodePen and various React code editor tutorials.  
 
 > “The more code you write, the more you learn. Keep building.”
+
+---
+
+## 🛠️ Setup Instructions
+
+```bash
+# Clone the repository
+git clone https://github.com/jaithunshifaya/CodePen-ReactApp.git
+
+# Navigate into the folder
+cd CodePen-ReactApp
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
 
