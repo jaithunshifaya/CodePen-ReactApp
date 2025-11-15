@@ -20,5 +20,5 @@ export default function useLocalStorage(key, initialValue) {
     localStorage.setItem(prefixedKey, JSON.stringify(value))
   }, [prefixedKey, value])
 
-  return [value, setValue]
+ return [value, setValue]
 }
