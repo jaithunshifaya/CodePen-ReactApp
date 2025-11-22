@@ -48,7 +48,7 @@ Welcome to **CodePen-ReactApp** – a responsive and fully functional **online c
 
 ## 🙏 Acknowledgement
 
-Inspired by CodePen and various React code editor tutorials.  
+Inspired by various React code editor tutorials.  
 
 > “The more code you write, the more you learn. Keep building.”
 
